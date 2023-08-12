@@ -1,0 +1,37 @@
+.top-container {
+    background: url(./images/Apple_Mac.jpg);
+    background-size: auto 100%;
+    background-color: white;
+    height:400px;
+    padding: "20px";
+}
+
+.mid-container{
+    background-color: white;
+}
+
+#name{
+    font-family: 'Borel', cursive;
+    text-align: center;
+}
+
+#description{
+    font-family: 'Handjet', cursive;
+    text-align: center;
+}
+
+.line{
+    padding-top:"10px";
+    text-align: center;
+}
+
+.profile-pic {
+    height: 100px;
+    border-radius: 50%;
+}
+
+.btn{
+    background-color: grey;
+    color:white;
+    margin-top: 10px;
+}
